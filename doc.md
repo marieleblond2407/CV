@@ -5,6 +5,7 @@
 * Rouen 
 
 ![Texte alternatif](photo cv.jpeg “ma photo”)
+
 ### Formation 
 **1. Master Communication **
 ISD Flaubert - Rouen 
@@ -23,3 +24,7 @@ Saint Jo Sup - Le Havre
 5. Imprimerie Vallée 
 
 > Contactez-moi 
+
+```
+            bool pluie = false
+     ```
