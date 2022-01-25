@@ -4,7 +4,7 @@
 * 06 52 32 29 65
 * Rouen 
 
-###Formation 
+### Formation 
 1. Master Communication 
 ISD Flaubert - Rouen 
 
@@ -12,5 +12,9 @@ ISD Flaubert - Rouen
 ISD Flaubert - Rouen 
 
 3. BTS Communication 
+Saint Jo Sup - Le Havre 
+
+### Expérience professionnelles 
+1. Réunion des Musées Métropolitains
 
 
