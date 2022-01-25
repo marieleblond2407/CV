@@ -6,20 +6,20 @@
 
 ![Texte alternatif](photo cv.jpeg “ma photo”)
 ### Formation 
-1. Master Communication 
+**1. Master Communication **
 ISD Flaubert - Rouen 
 
-2. Licence pro chargée de communication 
+**2. Licence pro chargée de communication
 ISD Flaubert - Rouen 
 
-3. BTS Communication 
+**3. BTS Communication **
 Saint Jo Sup - Le Havre 
 
 ### Expérience professionnelles 
-1. Réunion des Musées Métropolitains
+*1. Réunion des Musées Métropolitains
 2. EDF 
-3. Poissonnerie L'espadon 
+*3. Poissonnerie L'espadon 
 4. Cinéma Les Arts 
-5. Imprimerie Vallée 
+*5. Imprimerie Vallée 
 
 > Contactez-moi 
