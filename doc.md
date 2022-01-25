@@ -5,7 +5,7 @@
 
 ![photo de marie leblond](https://github.com/marieleblond2407/CV/blob/main/Photo%20CV.jpg)
 
-</center
+</center>
 
 ## Mon profil
 ###### Créative, sérieuse et curieuse ! Collectionneuse de timbre à mes heures perdu.
