@@ -25,6 +25,3 @@ Saint Jo Sup - Le Havre
 
 > Contactez-moi 
 
-```
-            bool pluie = false
-     ```
