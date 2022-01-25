@@ -4,6 +4,7 @@
 * 06 52 32 29 65
 * Rouen 
 
+![Texte alternatif](photo cv.jpeg “ma photo”)
 ### Formation 
 1. Master Communication 
 ISD Flaubert - Rouen 
