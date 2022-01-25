@@ -16,5 +16,8 @@ Saint Jo Sup - Le Havre
 
 ### Expérience professionnelles 
 1. Réunion des Musées Métropolitains
-
+2. EDF 
+3. Poissonnerie L'espadon 
+4. Cinéma Les Arts 
+5. Imprimerie Vallée 
 
